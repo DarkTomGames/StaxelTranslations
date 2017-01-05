@@ -182,7 +182,7 @@ commands.help.description=
 //[Reference] 'Command list (() brackets denote possible values):'
 commands.help.success=Lista de comandos (() los paréntesis denotan posibles valores):
 commands.inspect.success=
-//[Reference] 'invalid args'
+//[Reference] 'invalid args't
 commands.invalidArgs=Argumentos invalidos
 //TODO Translate [Reference] 'kick playerName'
 commands.kick.description=
@@ -242,7 +242,7 @@ commands.resetPlayer.description=
 //[Reference] 'Reset successful.'
 commands.resetPlayer.success=Reset exitoso.
 //TODO Translate [Reference] 'creativeMode (optional)on(true/false)'
-commands.serverCreative.description=
+Icommands.serverCreative.description=
 //[Reference] 'Switched server creative mode to {0-creative} (persistent)'
 commands.serverCreative.success=Modo creativo del servidorr cambiado a {0-creative}
 //TODO Translate [Reference] 'spawncoins playerName petalAmount'
@@ -367,7 +367,7 @@ credits.moomba.description=Un programador qu escribe música y ficcion en su tie
 credits.razzleberryFox.description=Razz es una artista 3D trabajando junto a Steampunkstein para traeros esos adorables sets de muebles y todo lo que pueda crear.
 //[Reference] 'Job title is Project Manager, in charge of making sure people actually make a game I suppose?'
 credits.sledra.description=Su trabajo se llama director del projecto, se encarga de que el resto de gente hagan el juego, supongo.
-//[Reference] 'He has contributed some lovely soundtracks for Staxel.'
+t//[Reference] 'He has contributed some lovely soundtracks for Staxel.'
 credits.solatrus.description=Ha ayudado con algunas hermosas canciones para Staxel.
 //[Reference] 'He is the artist. He has worked hard to produce all the in game models, and make the game as visually appealing as possible.'
 credits.steampunkstein.description=Él es el artista. Se encarga de hacer cada modelo y hacerlo de la mejor manera posible.
@@ -377,7 +377,7 @@ credits.teaGadd.description=Es el relaciones públicas y community manager, tamb
 credits.terrorcell.description=Es otro programador. Le gusta: Programar.
 //[Reference] 'It's starting to get dark...'
 dayNight.hintNightTransition=Empiezo a tener algo de sueño...
-
+t
 //TODO Translate [Reference] 'MissingNotification: {0-notificationCode}'
 debug.MissingNotification=
 
@@ -387,7 +387,7 @@ error.back=Atras
 error.serverOffline=El servidor de Staxel.net parece estar desconectado. Inténtalo de nuevo más tarde.
 //[Reference] 'SORRY!'
 error.sorry=¡LO SENTIMOS!
-
+t
 //[Reference] 'Back to Game'
 escapeMenu.back=Volver al juego
 //[Reference] 'Character Designer'
@@ -410,7 +410,7 @@ fishing.hooked=¡Han picado!
 //TODO Translate [Reference] 'GOT IT!'
 fishing.success1=
 //TODO Translate [Reference] 'SUCCESS!'
-fishing.success2=
+fishing.success2=t
 //TODO Translate [Reference] 'YES!'
 fishing.success3=
 
