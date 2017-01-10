@@ -5067,23 +5067,23 @@ staxel.tileObject.serverVillage.exterior.TreeStump.name=
 //TODO Translate [Reference] 'A great finishing touch to any building.'
 staxel.tileObject.serverVillage.exterior.Vines.1.description=
 //TODO Translate [Reference] 'Vines'
-staxel.tileObject.serverVillage.exterior.Vines.1.name=
+staxel.tileObject.serverVillage.exterior.Vines.1.name=Lianas
 //TODO Translate [Reference] 'A great finishing touch to any building.'
 staxel.tileObject.serverVillage.exterior.Vines.2.description=
 //TODO Translate [Reference] 'Vines'
-staxel.tileObject.serverVillage.exterior.Vines.2.name=
+staxel.tileObject.serverVillage.exterior.Vines.2.name=Lianas
 //TODO Translate [Reference] 'A great finishing touch to any building.'
 staxel.tileObject.serverVillage.exterior.Vines.3.description=
 //TODO Translate [Reference] 'Vines'
-staxel.tileObject.serverVillage.exterior.Vines.3.name=
+staxel.tileObject.serverVillage.exterior.Vines.3.name=Lianas
 //TODO Translate [Reference] 'A convenient way to brighten up any space.'
 staxel.tileObject.serverVillage.exterior.WallLamp.description=
 //TODO Translate [Reference] 'Wall Lamp'
-staxel.tileObject.serverVillage.exterior.WallLamp.name=
+staxel.tileObject.serverVillage.exterior.WallLamp.name=Lámpara de pared
 //TODO Translate [Reference] 'A solid block of liquid.'
 staxel.tileObject.serverVillage.exterior.WaterBlock.description=
 //TODO Translate [Reference] 'Water Block'
-staxel.tileObject.serverVillage.exterior.WaterBlock.name=
+staxel.tileObject.serverVillage.exterior.WaterBlock.name=Bloque de agua
 //TODO Translate [Reference] 'A large well... it must be a hundred years old, at least!'
 staxel.tileObject.serverVillage.exterior.Well.description=
 //TODO Translate [Reference] 'Well'
@@ -5091,7 +5091,7 @@ staxel.tileObject.serverVillage.exterior.Well.name=
 //TODO Translate [Reference] 'A grain with a lot of different purposes.'
 staxel.tileObject.serverVillage.exterior.Wheat.description=
 //TODO Translate [Reference] 'Wheat'
-staxel.tileObject.serverVillage.exterior.Wheat.name=
+staxel.tileObject.serverVillage.exterior.Wheat.name=Trigo
 //TODO Translate [Reference] 'Welcome to Winton!'
 staxel.tileObject.serverVillage.exterior.WintonSign.description=
 //TODO Translate [Reference] 'Winton Sign'
@@ -5135,7 +5135,7 @@ staxel.tileObject.serverVillage.FenceStraight.name=
 //TODO Translate [Reference] 'A stunning fountain with fresh water inside. Perhaps it's time to make a wish!'
 staxel.tileObject.serverVillage.FilledFountain.description=
 //TODO Translate [Reference] 'Fountain'
-staxel.tileObject.serverVillage.FilledFountain.name=
+staxel.tileObject.serverVillage.FilledFountain.name=Fuente
 //TODO Translate [Reference] 'Used for storing your food and keeping it fresh.'
 staxel.tileObject.serverVillage.Fridge.description=
 //TODO Translate [Reference] 'Simply Freezing Fridge'
@@ -5175,19 +5175,19 @@ staxel.tileObject.serverVillage.KitchenTable.name=
 //TODO Translate [Reference] 'Perfect for eating outdoors, and it seems like it was recently repainted.'
 staxel.tileObject.serverVillage.LargePicnicTable.description=
 //TODO Translate [Reference] 'Picnic Table'
-staxel.tileObject.serverVillage.LargePicnicTable.name=
+staxel.tileObject.serverVillage.LargePicnicTable.name=Mesa de picnic
 //TODO Translate [Reference] 'A crafting station used to mix up ingredients.'
-staxel.tileObject.serverVillage.MixingStation.description=
+staxel.tileObject.serverVillage.MixingStation.description=Una estación que se usa para mezclar ingredientes.
 //TODO Translate [Reference] 'Mixing Station'
-staxel.tileObject.serverVillage.MixingStation.name=
+staxel.tileObject.serverVillage.MixingStation.name=Estación de mezclas
 //TODO Translate [Reference] 'Delicious orange juice, what a fine way to start the day.'
-staxel.tileObject.serverVillage.OrangeJuice.description=
+staxel.tileObject.serverVillage.OrangeJuice.description=Delicioso zumo de naranja, qué manera más agradable de empezar el día.
 //TODO Translate [Reference] 'Orange Juice'
-staxel.tileObject.serverVillage.OrangeJuice.name=
+staxel.tileObject.serverVillage.OrangeJuice.name=Zumo de naranja
 //TODO Translate [Reference] 'The oven is used to cook your delicious hot dishes!'
-staxel.tileObject.serverVillage.Oven.description=
+staxel.tileObject.serverVillage.Oven.description=¡Usa este horno para preparar tus deliciosas comidas!
 //TODO Translate [Reference] 'Basic Oven'
-staxel.tileObject.serverVillage.Oven.name=
+staxel.tileObject.serverVillage.Oven.name=Horno básico
 //TODO Translate [Reference] 'Packing boxes are essential for moving.'
 staxel.tileObject.serverVillage.PackingBox1.description=
 //TODO Translate [Reference] 'Cardboard Box'
@@ -5257,7 +5257,7 @@ staxel.tileObject.serverVillage.PottedPlant.whiteRose.description=Rosas blancas 
 //[Reference] 'Potted Plant With White Roses'
 staxel.tileObject.serverVillage.PottedPlant.whiteRose.name=Maceta con rosas blancas
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.PottedPlant.yellow.description=Una maceta grande construida de ladrillos. ¡No tienes que preocuparte porque alguien lo tire!
+staxel.tileObject.serverVillage.PottedPlant.yellow.description=Una maceta grande hecha de ladrillos. ¡No tienes que preocuparte porque alguien lo tire!
 //[Reference] 'Flower Bed With Yellow Flowers'
 staxel.tileObject.serverVillage.PottedPlant.yellow.name=Maceta con flores amarillas
 //[Reference] 'Fresh punch, get some before it runs out!'
@@ -5315,11 +5315,11 @@ staxel.tileObject.serverVillage.SimplePottedPlant.orange.description=Una maceta 
 //[Reference] 'Flower Bed With Orange Flowers'
 staxel.tileObject.serverVillage.SimplePottedPlant.orange.name=Maceta con flores naranjas
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.SimplePottedPlant.pink.description=Una maceta grande construida de ladrillos. ¡No tienes que preocuparte porque alguien lo tire!
+staxel.tileObject.serverVillage.SimplePottedPlant.pink.description=Una maceta grande hecha de ladrillos. ¡No tienes que preocuparte porque alguien lo tire!
 //[Reference] 'Flower Bed With Pink Flowers'
 staxel.tileObject.serverVillage.SimplePottedPlant.pink.name=Maceta con flores rosas
 //[Reference] 'A large flower bed built from bricks. You don't have to worry about anyone knocking this flower bed over!'
-staxel.tileObject.serverVillage.SimplePottedPlant.purple.description=Una maceta grande construida de ladrillos. ¡No tienes que preocuparte porque alguien lo tire!
+staxel.tileObject.serverVillage.SimplePottedPlant.purple.description=Una maceta grande hecha de ladrillos. ¡No tienes que preocuparte porque alguien lo tire!
 //[Reference] 'Flower Bed With Purple Flowers'
 staxel.tileObject.serverVillage.SimplePottedPlant.purple.name=Maceta con flores moradas
 //[Reference] 'A classic sofa, with a twist!'
